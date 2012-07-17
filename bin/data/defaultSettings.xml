@@ -1,0 +1,10 @@
+<xshift>0.00299999</xshift>
+<yshift>0.105</yshift>
+<simplify>1</simplify>
+<far_clip>1245</far_clip>
+<max_features>5000</max_features>
+<feature_quality>0.01</feature_quality>
+<min_distance>9</min_distance>
+<render>0</render>
+<clown_nose>1</clown_nose>
+<render_face_tracking>0</render_face_tracking>
